@@ -1,0 +1,42 @@
+.game{
+    width: 900px;
+    text-align: center;
+    font-family: system-ui ;
+    color:deepskyblue;
+    margin: auto;
+    font: 500px;
+}
+.title{
+    width: 760px;
+    height: 100px;
+    background-color:black;
+    padding:5px 0;
+    margin: 5px;
+    margin:  2px;
+    font-size:70px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+   
+}
+span{
+    color:deepskyblue;
+}
+.square{
+    width: 250px;
+    height: 150px;
+    background-color:black;
+    float: left;
+    margin:  2px;
+    font-size:100px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.square:hover{
+    background:greenyellow;
+    cursor: pointer;
+}
+body{
+   background-image: url("pexels-riccardo-bertolo-4245826.jpg") ;
+}
